@@ -1,7 +1,7 @@
 class ZitaResampler < Formula
   desc "C++ library for resampling audio signals"
   homepage "http://kokkinizita.linuxaudio.org/linuxaudio/"
-  url "http://kokkinizita.linuxaudio.org/linuxaudio/downloads/zita-resampler-1.3.0.tar.bz2"
+  url "http://kokkinizita.linuxaudio.org/linuxaudio/downloads/zita-resampler-1.6.0.tar.bz2"
   sha256 "98034c8c77b03ad1093f7ca0a83ccdfad5a36040a5a95bd4dac80fa68bcf2a65"
 
   depends_on "libsndfile"
